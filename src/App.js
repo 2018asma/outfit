@@ -22,7 +22,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <Nav />
-        <Route exact path={process.env.PUBLIC_URL + '/'} component={Carousel} />
+        <Route exact path="/" component={Carousel} />
         <Route path="/women">
           <Women itemImg={this.itemImage} />
         </Route>

@@ -6,7 +6,7 @@ class Nav extends React.Component {
   render() {
     return (
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <Link to='/' className="navbar-brand">
+      <Link to='/outfit' className="navbar-brand">
       <img src={logo} alt="logo"/>
     </Link>
        

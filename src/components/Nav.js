@@ -11,7 +11,7 @@ class Nav extends React.Component {
     </Link>
        
         <button
-          className="navbar-toggler"
+          className="navbar-toggler "
           type="button"
           data-toggle="collapse"
           data-target="#navbarNav"
@@ -21,7 +21,7 @@ class Nav extends React.Component {
         >
           <span className="navbar-toggler-icon"></span>
         </button>
-        <div className="collapse show navbar-collapse" id="navbarNav">
+        <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
               <Link to='/women' className="nav-link" href="#">

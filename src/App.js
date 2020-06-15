@@ -22,7 +22,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <Nav />
-        <Route exact path="/outfit" component={Carousel} />
+        <Route exact path="/outfit/" component={Carousel} />
         <Route path="/women">
           <Women itemImg={this.itemImage} />
         </Route>

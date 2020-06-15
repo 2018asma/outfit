@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="57" viewBox="0 0 160 57">
+  <defs>
+    <clipPath id="clip-llo">
+      <rect width="160" height="57"/>
+    </clipPath>
+  </defs>
+  <g id="llo" clip-path="url(#clip-llo)">
+    <text id="ألبـــــــس_صح" data-name="ألبـــــــس صح" transform="translate(30)" font-size="19" font-family="FrutigerLTArabic-55Roman, Frutiger LT Arabic" style="mix-blend-mode: darken;isolation: isolate"><tspan x="0" y="26">ألبـــــــس صح</tspan></text>
+    <text id="W_E_A_R_R_I_G_H_T" data-name="W E A R  R I G H T" transform="translate(3 33)" font-size="19" font-family="Apercu-Regular, Apercu"><tspan x="0" y="18" xml:space="preserve">W E A R  R I G H T</tspan></text>
+  </g>
+</svg>

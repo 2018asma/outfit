@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/outfit/static/css/main.d9aeec0e.chunk.css",
+    "main.js": "/outfit/static/js/main.166b8321.chunk.js",
+    "main.js.map": "/outfit/static/js/main.166b8321.chunk.js.map",
+    "runtime-main.js": "/outfit/static/js/runtime-main.9aaa580a.js",
+    "runtime-main.js.map": "/outfit/static/js/runtime-main.9aaa580a.js.map",
+    "static/js/2.b2ab9d17.chunk.js": "/outfit/static/js/2.b2ab9d17.chunk.js",
+    "static/js/2.b2ab9d17.chunk.js.map": "/outfit/static/js/2.b2ab9d17.chunk.js.map",
+    "index.html": "/outfit/index.html",
+    "precache-manifest.84e8d0a61d4c69558265f445ae0c00ef.js": "/outfit/precache-manifest.84e8d0a61d4c69558265f445ae0c00ef.js",
+    "service-worker.js": "/outfit/service-worker.js",
+    "static/css/main.d9aeec0e.chunk.css.map": "/outfit/static/css/main.d9aeec0e.chunk.css.map",
+    "static/js/2.b2ab9d17.chunk.js.LICENSE.txt": "/outfit/static/js/2.b2ab9d17.chunk.js.LICENSE.txt",
+    "static/media/1.webp": "/outfit/static/media/1.a9a8df20.webp",
+    "static/media/10.webp": "/outfit/static/media/10.d33fe739.webp",
+    "static/media/2.webp": "/outfit/static/media/2.cd507112.webp",
+    "static/media/3.webp": "/outfit/static/media/3.981a1b67.webp",
+    "static/media/4.webp": "/outfit/static/media/4.f0eb099e.webp",
+    "static/media/5.webp": "/outfit/static/media/5.4e293902.webp",
+    "static/media/6.webp": "/outfit/static/media/6.e08b65c3.webp",
+    "static/media/7.webp": "/outfit/static/media/7.ff92df06.webp",
+    "static/media/8.webp": "/outfit/static/media/8.d0a321d2.webp",
+    "static/media/9.webp": "/outfit/static/media/9.c9fa52e6.webp",
+    "static/media/index.css": "/outfit/static/media/woman.4d6239b0.jpeg",
+    "static/media/logo.svg": "/outfit/static/media/logo.f27bf82b.svg",
+    "static/media/shein-logo.png": "/outfit/static/media/shein-logo.cf3f1465.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aaa580a.js",
+    "static/js/2.b2ab9d17.chunk.js",
+    "static/css/main.d9aeec0e.chunk.css",
+    "static/js/main.166b8321.chunk.js"
+  ]
+}
